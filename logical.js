@@ -1,4 +1,4 @@
-/* Nodos info desde html*/ 
+ /* Nodos info desde html*/ 
 const input = document.querySelector("input");
 const form = document.querySelector("form");
 const list = document.querySelector("ul");
